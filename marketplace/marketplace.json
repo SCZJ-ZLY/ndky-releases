@@ -17,7 +17,9 @@
       },
       "source": {
         "source": "url",
-        "url": "https://raw.githubusercontent.com/SCZJ-ZLY/ndky-releases/main/marketplace/ndky-plugin.zip"
+        "type": "zip",
+        "url": "https://raw.githubusercontent.com/SCZJ-ZLY/ndky-releases/main/marketplace/ndky-plugin.zip",
+        "sha256": "84b159853bf20e052d1dd411d9342e4abbba6f94a403c8b636416277d83ce353"
       }
     }
   ]
