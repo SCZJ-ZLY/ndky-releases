@@ -1,0 +1,9 @@
+version: "3.14.3-ndky.1"
+releaseDate: "2026-10-08T10:39:51.667Z"
+path: "ndky-agent-3.14.3-ndky.1-win-x64.exe"
+sha512: "ZMcDrzuTJcUkF61yL+BAHkzu/oFM3jF+UTBK06Om5pwTY3uSvhTYcBsk7SJhnF+PLN248vnOKE2Xa1d191LA8A=="
+files:
+  - url: "https://github.com/SCZJ-ZLY/ndky-releases/releases/download/app-v3.14.3-ndky.1/ndky-agent-3.14.3-ndky.1-win-x64.exe"
+    sha512: "ZMcDrzuTJcUkF61yL+BAHkzu/oFM3jF+UTBK06Om5pwTY3uSvhTYcBsk7SJhnF+PLN248vnOKE2Xa1d191LA8A=="
+    size: 148043136
+releaseNotes: "农大科源智能体首个内部测试版：三场景可研编制向导 + 0731 标准模板 + 插件/exe 双更新通道。"
