@@ -1,9 +1,9 @@
-version: "3.14.3-ndky.2"
-releaseDate: "2026-10-08T17:06:19.417Z"
-path: "ndky-agent-3.14.3-ndky.2-win-x64.exe"
-sha512: "HoBo8fagUqv0ClHx0UeKZR334niasb4hwdzPZxbp4gTK3hB3NT/pZEJA+IXXkeTrr48QaaB5WGN+Q562cA245g=="
+version: "3.14.3-ndky.3"
+releaseDate: "2026-10-09T02:00:13.014Z"
+path: "ndky-agent-3.14.3-ndky.3-win-x64.exe"
+sha512: "7xixew2j/4Pgt27kdmS6WEIcgpfCGCvnBTvkjDYthZhwy1lIeWKMr5KM37ruvgydmQdIjTNYhv2IYRKW4VxncQ=="
 files:
-  - url: "https://github.com/SCZJ-ZLY/ndky-releases/releases/download/app-v3.14.3-ndky.2/ndky-agent-3.14.3-ndky.2-win-x64.exe"
-    sha512: "HoBo8fagUqv0ClHx0UeKZR334niasb4hwdzPZxbp4gTK3hB3NT/pZEJA+IXXkeTrr48QaaB5WGN+Q562cA245g=="
-    size: 148043063
-releaseNotes: "修复：ndky 插件出厂预装后默认启用失败（fail-safe 误伤正常场景），现在开箱即启用。"
+  - url: "https://github.com/SCZJ-ZLY/ndky-releases/releases/download/app-v3.14.3-ndky.3/ndky-agent-3.14.3-ndky.3-win-x64.exe"
+    sha512: "7xixew2j/4Pgt27kdmS6WEIcgpfCGCvnBTvkjDYthZhwy1lIeWKMr5KM37ruvgydmQdIjTNYhv2IYRKW4VxncQ=="
+    size: 148030546
+releaseNotes: "修复：在装过 ZCode 的电脑上会读到已有配置和项目列表的问题。现在完全独立运行，开箱即用。"
