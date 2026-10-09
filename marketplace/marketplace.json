@@ -4,7 +4,7 @@
   "plugins": [
     {
       "name": "ndky",
-      "version": "0.5.1",
+      "version": "0.5.2",
       "category": "productivity",
       "description": "NDKY 可研编制技能：农大科源项目策划文本/可研报告的章法、写作纪律与项目工作区。内置三份 0731 标准模板，支持初稿续写（沿用初稿格式）与三模板选一（可调整大纲）两种场景。",
       "displayName": "NDKY 可研编制",
@@ -19,7 +19,7 @@
         "source": "url",
         "type": "zip",
         "url": "https://raw.githubusercontent.com/SCZJ-ZLY/ndky-releases/main/marketplace/ndky-plugin.zip",
-        "sha256": "e425ab67a3269521463ff00841c1a5aaad744cecb4d59e06abf07ae1941b97ce"
+        "sha256": "8306cdce99cf9f289fc37f0021b7e790330732c00dda7104d56e2181ac07de7e"
       }
     }
   ]
