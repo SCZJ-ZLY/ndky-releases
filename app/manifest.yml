@@ -1,9 +1,9 @@
-version: "3.14.3-ndky.5"
-releaseDate: "2026-10-09T09:29:14.991Z"
-path: "ndky-agent-3.14.3-ndky.5-win-x64.exe"
-sha512: "tpq+z/9HjQu/P3ijZV3sBXlKVAsJmdyTRLHWh3nVZ+doukQ8SJlT7bSVICKl4S5F2aFdl/WcgACIQ7U+npCvAA=="
+version: "3.14.3-ndky.6"
+releaseDate: "2026-10-09T10:10:36.555Z"
+path: "ndky-agent-3.14.3-ndky.6-win-x64.exe"
+sha512: "oZhcgIW0y8C/DkE54OkImjLq8XEZ8zIrX4hsy+PnKsU3PZqfkYtFuqUXBbkZFVC7tPeYODc1LTudmi19rtXB2g=="
 files:
-  - url: "https://github.com/SCZJ-ZLY/ndky-releases/releases/download/app-v3.14.3-ndky.5/ndky-agent-3.14.3-ndky.5-win-x64.exe"
-    sha512: "tpq+z/9HjQu/P3ijZV3sBXlKVAsJmdyTRLHWh3nVZ+doukQ8SJlT7bSVICKl4S5F2aFdl/WcgACIQ7U+npCvAA=="
-    size: 148051329
-releaseNotes: "新增：报告预览支持选中段落一键引用给 AI 修改（保持 0731 样式不重排）；新增「用 Word/WPS 打开」按钮。插件已含 0.5.2（三段式项目空间+全流程 8 步清单+按章字数统计）。"
+  - url: "https://github.com/SCZJ-ZLY/ndky-releases/releases/download/app-v3.14.3-ndky.6/ndky-agent-3.14.3-ndky.6-win-x64.exe"
+    sha512: "oZhcgIW0y8C/DkE54OkImjLq8XEZ8zIrX4hsy+PnKsU3PZqfkYtFuqUXBbkZFVC7tPeYODc1LTudmi19rtXB2g=="
+    size: 148064919
+releaseNotes: "品牌焕新：绿色主题配色（绿白配色），启动画面更换为品牌标识。含 ndky.5 全部能力（预览选段让 AI 修改、Word/WPS 打开、插件 0.5.2）。"
