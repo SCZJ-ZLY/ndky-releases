@@ -1,9 +1,9 @@
-version: "3.14.3-ndky.3"
-releaseDate: "2026-10-09T02:00:13.014Z"
-path: "ndky-agent-3.14.3-ndky.3-win-x64.exe"
-sha512: "7xixew2j/4Pgt27kdmS6WEIcgpfCGCvnBTvkjDYthZhwy1lIeWKMr5KM37ruvgydmQdIjTNYhv2IYRKW4VxncQ=="
+version: "3.14.3-ndky.4"
+releaseDate: "2026-10-09T06:31:01.172Z"
+path: "ndky-agent-3.14.3-ndky.4-win-x64.exe"
+sha512: "WdbFLK6z/y+NgkLmwfmzHONks5/OEdlpAU87FqsOjBDsntwLcrb+Sf6/7DNQAvhlfrOzLP7UhI9jci5aRHfzzg=="
 files:
-  - url: "https://github.com/SCZJ-ZLY/ndky-releases/releases/download/app-v3.14.3-ndky.3/ndky-agent-3.14.3-ndky.3-win-x64.exe"
-    sha512: "7xixew2j/4Pgt27kdmS6WEIcgpfCGCvnBTvkjDYthZhwy1lIeWKMr5KM37ruvgydmQdIjTNYhv2IYRKW4VxncQ=="
-    size: 148030546
-releaseNotes: "修复：在装过 ZCode 的电脑上会读到已有配置和项目列表的问题。现在完全独立运行，开箱即用。"
+  - url: "https://github.com/SCZJ-ZLY/ndky-releases/releases/download/app-v3.14.3-ndky.4/ndky-agent-3.14.3-ndky.4-win-x64.exe"
+    sha512: "WdbFLK6z/y+NgkLmwfmzHONks5/OEdlpAU87FqsOjBDsntwLcrb+Sf6/7DNQAvhlfrOzLP7UhI9jci5aRHfzzg=="
+    size: 148060980
+releaseNotes: "内部测试版：插件市场自动感知更新（进入市场页自动刷新清单，无需手动）；ndky 插件 0.5.2（三段式项目空间+全流程 8 步清单+按章字数统计）。"
