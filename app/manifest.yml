@@ -1,9 +1,9 @@
-version: "3.14.3-ndky.6"
-releaseDate: "2026-10-09T10:10:36.555Z"
-path: "ndky-agent-3.14.3-ndky.6-win-x64.exe"
-sha512: "oZhcgIW0y8C/DkE54OkImjLq8XEZ8zIrX4hsy+PnKsU3PZqfkYtFuqUXBbkZFVC7tPeYODc1LTudmi19rtXB2g=="
+version: "3.14.3-ndky.7"
+releaseDate: "2026-10-10T03:05:35.412Z"
+path: "ndky-agent-3.14.3-ndky.7-win-x64.exe"
+sha512: "FsjISMGMNCp73YvBHNS8UzMSLb/DFEquble6Q254RdDtazqwWJuj7yUr+tUVvzIbiY843xAp4177MKwxf71CYQ=="
 files:
-  - url: "https://github.com/SCZJ-ZLY/ndky-releases/releases/download/app-v3.14.3-ndky.6/ndky-agent-3.14.3-ndky.6-win-x64.exe"
-    sha512: "oZhcgIW0y8C/DkE54OkImjLq8XEZ8zIrX4hsy+PnKsU3PZqfkYtFuqUXBbkZFVC7tPeYODc1LTudmi19rtXB2g=="
-    size: 148064919
-releaseNotes: "品牌焕新：绿色主题配色（绿白配色），启动画面更换为品牌标识。含 ndky.5 全部能力（预览选段让 AI 修改、Word/WPS 打开、插件 0.5.2）。"
+  - url: "https://github.com/SCZJ-ZLY/ndky-releases/releases/download/app-v3.14.3-ndky.7/ndky-agent-3.14.3-ndky.7-win-x64.exe"
+    sha512: "FsjISMGMNCp73YvBHNS8UzMSLb/DFEquble6Q254RdDtazqwWJuj7yUr+tUVvzIbiY843xAp4177MKwxf71CYQ=="
+    size: 148051815
+releaseNotes: "品牌绿修复：theme-zai-light/dark 补品牌色（修 ndky.6 亮暗主题黑白、品牌绿不生效）"
