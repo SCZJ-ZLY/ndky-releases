@@ -1,9 +1,9 @@
-version: "3.14.3-ndky.7"
-releaseDate: "2026-10-10T03:05:35.412Z"
-path: "ndky-agent-3.14.3-ndky.7-win-x64.exe"
-sha512: "FsjISMGMNCp73YvBHNS8UzMSLb/DFEquble6Q254RdDtazqwWJuj7yUr+tUVvzIbiY843xAp4177MKwxf71CYQ=="
+version: "3.14.3-ndky.8"
+releaseDate: "2026-10-10T04:44:17.800Z"
+path: "ndky-agent-3.14.3-ndky.8-win-x64.exe"
+sha512: "7k3ubrZOrh3JJMqR9hx0vF/TtJ/z77ASThq40GMlqq+jl75gMHZ8EV/IsG1jg5okZGHfyzEzk3B9V7mmS1ZVpA=="
 files:
-  - url: "https://github.com/SCZJ-ZLY/ndky-releases/releases/download/app-v3.14.3-ndky.7/ndky-agent-3.14.3-ndky.7-win-x64.exe"
-    sha512: "FsjISMGMNCp73YvBHNS8UzMSLb/DFEquble6Q254RdDtazqwWJuj7yUr+tUVvzIbiY843xAp4177MKwxf71CYQ=="
-    size: 148051815
-releaseNotes: "品牌绿修复：theme-zai-light/dark 补品牌色（修 ndky.6 亮暗主题黑白、品牌绿不生效）"
+  - url: "https://github.com/SCZJ-ZLY/ndky-releases/releases/download/app-v3.14.3-ndky.8/ndky-agent-3.14.3-ndky.8-win-x64.exe"
+    sha512: "7k3ubrZOrh3JJMqR9hx0vF/TtJ/z77ASThq40GMlqq+jl75gMHZ8EV/IsG1jg5okZGHfyzEzk3B9V7mmS1ZVpA=="
+    size: 148047945
+releaseNotes: "品牌扫尾：启动加载/引导徽标、浅色空状态水印、关于窗 logo 三处 Z 残留换品牌图形"
